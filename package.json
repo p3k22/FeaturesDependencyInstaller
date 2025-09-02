@@ -1,0 +1,11 @@
+{
+  "name": "com.p3k.featuresdependencyinstaller",
+  "version": "1.0.0",
+  "displayName": "Features Dependency Installer",
+  "description": "",
+  "unity": "2020.1",
+  "documentationUrl": "https://github.com/p3k22/FeaturesDependencyInstaller#readme",
+  "author": {
+    "name": "P3k"
+  }
+}
